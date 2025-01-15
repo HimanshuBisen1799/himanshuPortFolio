@@ -35,7 +35,7 @@ const Contact = () => {
 
   const handleWhatsApp = () => {
     const message = encodeURIComponent('Hi Himanshu, I would like to connect with you!');
-    window.open(`https://wa.me/+919198922772?text=${message}`, '_blank');
+    window.open(`https://wa.me/+919691227712?text=${message}`, '_blank');
   };
 
   return (
