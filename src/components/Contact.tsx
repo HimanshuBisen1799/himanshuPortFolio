@@ -69,7 +69,7 @@ const Contact = () => {
                 className="flex items-center gap-4 text-secondary"
               >
                 <Phone className="w-6 h-6 text-violet-500" />
-                <span>+91 9198922772</span>
+                <span>+91 9691227712</span>
               </motion.div>
               <motion.div
                 whileHover={{ x: 10 }}
