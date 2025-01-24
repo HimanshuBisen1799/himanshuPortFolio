@@ -9,6 +9,8 @@ import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Achievements from './components/Achievements';
+import Certifications from './components/Certifications';
 
 function App() {
   useEffect(() => {
@@ -30,6 +32,9 @@ function App() {
         <About />
         <Experience />
         <Projects />
+      
+        <Achievements />
+        <Certifications />
         <Skills />
         <div className="relative z-0">
           <Contact />

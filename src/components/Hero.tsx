@@ -19,10 +19,14 @@ const Hero = () => {
           <h1 className="font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2">
             Hi, I'm <span className="text-violet-500">Himanshu</span>
           </h1>
-          <p className="text-white font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] mt-2">
+          {/* <p className="text-white font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] mt-2">
             Full Stack Developer & Founder of <br className="sm:block hidden" />
             SoftDigitIndia Technology
-          </p>
+          </p> */}
+                  <p className="text-white font-medium lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px] mt-2">
+  Software Engineer & Full Stack Web Developer <br className="sm:block hidden" />
+  with a passion for creating innovative solutions.
+</p>
 
           <div className="mt-8 flex gap-4">
             <a
